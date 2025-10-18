@@ -90,7 +90,8 @@ print(res2)
 
 ## Output :
 
-![alt text](image.png)
+<img width="482" height="385" alt="image" src="https://github.com/user-attachments/assets/0e62f004-531f-4da9-bf62-c2d9f0744dd8" />
+
 
 
 ## Result :
